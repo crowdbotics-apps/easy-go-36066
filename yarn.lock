@@ -1214,7 +1214,7 @@
 "@screens/notifications@file:./screens/notifications":
   version "1.0.0"
 
-"@screens/notifications@file:./screens/notifications/":
+"@screens/post-listing@file:./screens/post-listing/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
